@@ -1,6 +1,6 @@
 # Monte-Carlo-Simulation-using-Advanced-Excel
 
-###### Retirement Planning
+### Retirement Planning
 
 A recent MBA would like your assistance in determining how much to save for retirement. He is planning to invest $3,000 in a tax-sheltered retirement fund at the end of each year (i.e., appreciation of the fund is not taxed). The rate of return each year can be modeled as a normally distributed random variable with a mean of 12 percent and a standard deviation of 2 percent. 
 
